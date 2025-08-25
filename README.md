@@ -7,8 +7,11 @@ You will recieve a response from my email in 1-2 days maximum. To anyone reading
 
 
 TABLE OF CONTENTS:
+
 main.java is a simple hello world in the console made in java
+
 main2.java is a simple program that tells the user to input a name and then it uses the varible of the name you typed in and says Hello, John Doe!
+
 main3.java is a simple calculator program for the terminal that I named Termainally Calculated
 
 
