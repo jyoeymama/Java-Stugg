@@ -11,4 +11,11 @@ main.java is a simple hello world in the console made in java
 main2.java is a simple program that tells the user to input a name and then it uses the varible of the name you typed in and says Hello, John Doe!
 main3.java is a simple calculator program for the terminal that I named Termainally Calculated
 
+
+
+
+
+
+
+
 <img width="1280" height="720" alt="Java Stugg" src="https://github.com/user-attachments/assets/fcfe6697-df94-46cb-913e-8eb2fbbfb4fc" />
