@@ -23,6 +23,8 @@ I took his script and changed it to a torus shape (or donut) thats pink. Most cr
 
 6. SimpleTodo.java is a simple todo list for your terminal thats made in java.
 
+7. ShapeCodeGenerator.java is a terminal based program that can give you the faces and verticies for different shapes for the DemoViewer.java
+
 
 
 
