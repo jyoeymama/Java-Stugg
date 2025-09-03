@@ -8,20 +8,20 @@ You will recieve a response from my email in 1-2 days maximum. To anyone reading
 
 TABLE OF CONTENTS:
 
-main.java is a simple hello world in the console made in java
+1. main.java is a simple hello world in the console made in java
 
-main2.java is a simple program that tells the user to input a name and then it uses the varible of the name you typed in and says Hello, John Doe!
+2. main2.java is a simple program that tells the user to input a name and then it uses the varible of the name you typed in and says Hello, John Doe!
 
-main3.java is a simple calculator program for the terminal that I named Termainally Calculated
+3. main3.java is a simple calculator program for the terminal that I named Termainally Calculated
 
-DemoViewer.java is a simple 3d renderer made soley in java by: Rogach on GitHub. Heres his GitHub: https://gist.github.com/Rogach. 
+4. DemoViewer.java is a simple 3d renderer made soley in java by: Rogach on GitHub. Heres his GitHub: https://gist.github.com/Rogach. 
 The original post about this 3d renderer can be found here: https://gist.github.com/Rogach/f3dfd457d7ddb5fcfd99/4f2aaf20a468867dc195cdc08a02e5705c2cc95c 
 
 I took his script and changed it to a torus shape (or donut) thats pink. Most credit goes to Rogach though. 
 
-PasswordGen.java is a simple password generator for your terminal in java.
+5. PasswordGen.java is a simple password generator for your terminal in java.
 
-SimpleTodo.java is a simple todo list for your terminal thats made in java.
+6. SimpleTodo.java is a simple todo list for your terminal thats made in java.
 
 
 
