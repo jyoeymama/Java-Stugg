@@ -2,8 +2,6 @@
 
 
 
-https://github.com/user-attachments/assets/388bb423-0ff4-4fb0-a17b-cf8f9c458615
-
 
 Welcome To: Java Stugg
 This is all my random programs to help me better understand java.
@@ -33,6 +31,9 @@ I took his script and changed it to a torus shape (or donut) thats pink. Most cr
 
 
 
+
+
+https://github.com/user-attachments/assets/388bb423-0ff4-4fb0-a17b-cf8f9c458615
 
 
 
