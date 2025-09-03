@@ -16,6 +16,7 @@ main3.java is a simple calculator program for the terminal that I named Termaina
 
 DemoViewer.java is a simple 3d renderer made soley in java by: Rogach on GitHub. Heres his GitHub: https://gist.github.com/Rogach. 
 The original post about this 3d renderer can be found here: https://gist.github.com/Rogach/f3dfd457d7ddb5fcfd99/4f2aaf20a468867dc195cdc08a02e5705c2cc95c 
+
 I took his script and changed it to a torus shape (or donut) thats pink. Most credit goes to Rogach though. 
 
 
