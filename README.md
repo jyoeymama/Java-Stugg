@@ -19,6 +19,10 @@ The original post about this 3d renderer can be found here: https://gist.github.
 
 I took his script and changed it to a torus shape (or donut) thats pink. Most credit goes to Rogach though. 
 
+PasswordGen.java is a simple password generator for your terminal in java.
+
+SimpleTodo.java is a simple todo list for your terminal thats made in java.
+
 
 
 
