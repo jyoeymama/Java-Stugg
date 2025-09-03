@@ -4,7 +4,7 @@ public class ShapeCodeGenerator {
         makeSphere(100, 20, "Color.GREEN");
     }
 
-    // Generate Java code for a sphere
+    // Generates code for a sphere (java)
     public static void makeSphere(double radius, int steps, String color) {
         for (int i = 0; i < steps; i++) {
             double theta1 = Math.PI * i / steps;
@@ -24,11 +24,12 @@ public class ShapeCodeGenerator {
         }
     }
 
-    // Utility: formats a Vertex
+    // formats a vertex
     private static String vertex(double r, double theta, double phi) {
         double x = r * Math.sin(theta) * Math.cos(phi);
         double y = r * Math.cos(theta);
         double z = r * Math.sin(theta) * Math.sin(phi);
         return "new Vertex(" + (int)x + ", " + (int)y + ", " + (int)z + ")";
     }
+
 }
