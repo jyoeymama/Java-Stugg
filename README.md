@@ -1,4 +1,10 @@
 # Java-Stugg
+
+
+
+https://github.com/user-attachments/assets/388bb423-0ff4-4fb0-a17b-cf8f9c458615
+
+
 Welcome To: Java Stugg
 This is all my random programs to help me better understand java.
 If you are on this repository, please, do as you wish with any of my programs. I spend a lot of time trying to learn code in the hopes that maybe one day it might help someone.
