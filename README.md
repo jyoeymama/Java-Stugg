@@ -31,6 +31,8 @@ I took his script and changed it to a torus shape (or donut) thats pink. Most cr
 
 8. random2.java is a simple number guessing game, guess the correct number to win! (1 through 10)
 
+9. Welcome2JavaStugg.java is a simple welcome program.
+
 
 
 
