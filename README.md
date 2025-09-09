@@ -35,6 +35,8 @@ I took his script and changed it to a torus shape (or donut) thats pink. Most cr
 
 10. TicTacToe.java is just a simple tictactoe program.
 
+11. CommandX is a simple tool to aid with terminal usage having a nice gui for you to choose which command you would like to execute.
+
 
 
 
