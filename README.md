@@ -37,7 +37,7 @@ I took his script and changed it to a torus shape (or donut) thats pink. Most cr
 
 11. CommandX is a simple tool to aid with terminal usage having a nice gui for you to choose which command you would like to execute.
 
-12. guitest.java is a simple gui made in java!
+12. guitest.java is a simple gui made in java! (my first gui program!)
 
 
 
