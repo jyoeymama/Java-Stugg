@@ -10,6 +10,7 @@ If youd like to work with me and tell me anything, please email me at: jyomama28
 You will recieve a response from my email in 1-2 days maximum. To anyone reading this, I truly thank you for stopping on my repo; it isnt much but I hope you like it. I have been working hard on it :)
 
 LATEST RELEASE UPDATES:
+
 Added simplestopwatch.java in version 1.4
 
 TABLE OF CONTENTS:
