@@ -46,6 +46,8 @@ I took his script and changed it to a torus shape (or donut) thats pink. Most cr
 
 14. simplestopwatch.java is a simple stopwatch for your terminal, simply press enter to start and enter agian to stop.
 
+15. randomnumber.java is a simple program to give you a random number between 1 and 100.
+
 
 
 
