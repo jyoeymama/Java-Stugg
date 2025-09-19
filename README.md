@@ -19,6 +19,10 @@ Added simplestopwatch.java in version 1.4
 
 Added randomnumber.java in version 1.5
 
+LATEST GENERAL UPDATES:
+
+Added a cool new website for news and information about Java Stugg.
+
 TABLE OF CONTENTS:
 
 1. main.java is a simple hello world in the console made in java
