@@ -24,6 +24,8 @@ Added randomnumber.java in version 1.5
 
 Added random3dshape.java in version 1.6
 
+Added stackoverflowthing.java in version 1.7
+
 LATEST GENERAL UPDATES:
 
 Added a cool new website for news and information about Java Stugg.
