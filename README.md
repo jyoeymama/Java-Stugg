@@ -64,7 +64,9 @@ I took his script and changed it to a torus shape (or donut) thats pink. Most cr
 15. randomnumber.java is a simple program to give you a random number between 1 and 100.
 
 16. random3dshape.java is just a simple program that shows you a 3d render of a really really fat donut. Credit goes to Rogach on GitHub. Heres his GitHub: https://github.com/Rogach. 
-The original post about this 3d renderer can be found here: https://gist.github.com/Rogach/f3dfd457d7ddb5fcfd99/4f2aaf20a468867dc195cdc08a02e5705c2cc95c 
+The original post about this 3d renderer can be found here: https://gist.github.com/Rogach/f3dfd457d7ddb5fcfd99/4f2aaf20a468867dc195cdc08a02e5705c2cc95c
+
+17. stackoverflowthing.java is a program that force opens a rickroll on youtube. I found a post with the original code on StackOverflow here: https://stackoverflow.com/questions/10967451/open-a-link-in-browser-with-java-button All credit goes to this post. I modified it to be more modernized and fixed a few errors that javac had.
 
 
 
