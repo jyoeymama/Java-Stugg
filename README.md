@@ -80,6 +80,7 @@ The original post about this 3d renderer can be found here: https://gist.github.
 
 
 
+<img width="405" height="190" alt="Screenshot 2025-10-15 202026" src="https://github.com/user-attachments/assets/f6028b5c-35e2-4fe0-a1d8-8334b5255d18" />
 
 
 
