@@ -28,6 +28,8 @@ Added stackoverflowthing.java in version 1.7
 
 Added leetcode.java in version 1.8
 
+Added SeasonFinder.java in version 1.9
+
 LATEST GENERAL UPDATES:
 
 Added a cool new website for news and information about Java Stugg.
@@ -73,6 +75,8 @@ The original post about this 3d renderer can be found here: https://gist.github.
 17. stackoverflowthing.java is a program that force opens a rickroll on youtube. I found a post with the original code on StackOverflow here: https://stackoverflow.com/questions/10967451/open-a-link-in-browser-with-java-button All credit goes to this post. I modified it to be more modernized and fixed a few errors that javac had.
 
 18. leetcode.java is a simple array that outputs [2,4,3] to the console (mainly used as a refrence to an array in java by myself personally.)
+
+19. SeasonFinder.java is a simple switch statement to help me understand switch statements better in java. 
 
 
 
