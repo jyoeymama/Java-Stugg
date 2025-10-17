@@ -30,6 +30,8 @@ Added leetcode.java in version 1.8
 
 Added SeasonFinder.java in version 1.9
 
+Added formattingoutput.java, ifelsestatement.java, and 
+
 LATEST GENERAL UPDATES:
 
 Added a cool new website for news and information about Java Stugg.
