@@ -30,7 +30,7 @@ Added leetcode.java in version 1.8
 
 Added SeasonFinder.java in version 1.9
 
-Added formattingoutput.java, ifelsestatement.java, and 
+Added formattingoutput.java, ifelsestatement.java, and nestedifelse.java in version 2.0
 
 LATEST GENERAL UPDATES:
 
@@ -80,6 +80,11 @@ The original post about this 3d renderer can be found here: https://gist.github.
 
 19. SeasonFinder.java is a simple switch statement to help me understand switch statements better in java. 
 
+20. formattingoutput.java is just a simple script that shows a formatted output in java.
+
+21. ifelsestatement.java is a basic if else statement in java.
+
+22. nestedifelse.java is a basic nested if else statement in java. 
 
 
 
