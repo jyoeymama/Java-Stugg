@@ -32,7 +32,7 @@ Added SeasonFinder.java in version 1.9
 
 Added formattingoutput.java, ifelsestatement.java, and nestedifelse.java in version 2.0
 
-Added 
+Added scannerusage.java, trueorfalse.java, variablescanner.java, and morescanner.java
 
 LATEST GENERAL UPDATES:
 
@@ -86,7 +86,15 @@ The original post about this 3d renderer can be found here: https://gist.github.
 
 21. ifelsestatement.java is a basic if else statement in java.
 
-22. nestedifelse.java is a basic nested if else statement in java. 
+22. nestedifelse.java is a basic nested if else statement in java.
+
+23. scannerusage.java is a program to help me better understand the scanner object in java.
+
+24. trueorfalse.java is a program that gives true or false based on a number that the user inputs made in java.
+
+25. variablescanner.java is a program that is a basic usage of variables with the scanner object made in java.
+
+26. morescanner.java is another basic program that uses the scanner to help me better understand how the scanner object works in java.
 
 
 
