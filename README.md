@@ -32,6 +32,8 @@ Added SeasonFinder.java in version 1.9
 
 Added formattingoutput.java, ifelsestatement.java, and nestedifelse.java in version 2.0
 
+Added 
+
 LATEST GENERAL UPDATES:
 
 Added a cool new website for news and information about Java Stugg.
