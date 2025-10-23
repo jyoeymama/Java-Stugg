@@ -98,6 +98,10 @@ The original post about this 3d renderer can be found here: https://gist.github.
 
 26. morescanner.java is another basic program that uses the scanner to help me better understand how the scanner object works in java.
 
+27. whilendo.java is a basic porgram that uses the while and do statements made in java.
+
+28. breakstatement.java is a basic program that stops a loop when it reaches the number 5 made in java.
+
 
 
 
