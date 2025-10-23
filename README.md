@@ -32,7 +32,9 @@ Added SeasonFinder.java in version 1.9
 
 Added formattingoutput.java, ifelsestatement.java, and nestedifelse.java in version 2.0
 
-Added scannerusage.java, trueorfalse.java, variablescanner.java, and morescanner.java
+Added scannerusage.java, trueorfalse.java, variablescanner.java, and morescanner.java in version 2.1
+
+Added whilendo.java, and breakstatement.java in version 2.2
 
 LATEST GENERAL UPDATES:
 
