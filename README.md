@@ -36,6 +36,8 @@ Added scannerusage.java, trueorfalse.java, variablescanner.java, and morescanner
 
 Added whilendo.java, and breakstatement.java in version 2.2
 
+Added advancedswitchstatement.java in version 2.3
+
 LATEST GENERAL UPDATES:
 
 Added a cool new website for news and information about Java Stugg.
@@ -101,6 +103,8 @@ The original post about this 3d renderer can be found here: https://gist.github.
 27. whilendo.java is a basic porgram that uses the while and do statements made in java.
 
 28. breakstatement.java is a basic program that stops a loop when it reaches the number 5 made in java.
+
+29. advancedswitchstatement.java is a more advanced switch statement that uses many things such as break statements, objects, variables, and much more.
 
 
 
