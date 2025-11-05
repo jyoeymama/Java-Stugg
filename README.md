@@ -12,6 +12,12 @@ You will recieve a response from my email in 1-2 days maximum. To anyone reading
 
 THANK YOU ALL FOR THE LOVE AND SUPPORT!!!!
 
+JUST LOOK AT HOW MANY ERRORS LOL:
+
+
+<img width="1919" height="993" alt="Screenshot 2025-11-05 123611" src="https://github.com/user-attachments/assets/38cf060c-f4c9-4b11-9f11-c4efdf10f065" />
+
+
 CHECK OUT THE OFFICAL JAVA STUGG WEBSITE HERE:
 
 https://jyoeymama.github.io/Java-Stugg/
