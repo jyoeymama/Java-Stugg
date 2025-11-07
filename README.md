@@ -44,6 +44,8 @@ Added whilendo.java, and breakstatement.java in version 2.2
 
 Added advancedswitchstatement.java in version 2.3
 
+Added breakandcontinue.java and elementsandtraversal.java in version 2.4
+
 LATEST GENERAL UPDATES:
 
 Added a cool new website for news and information about Java Stugg.
@@ -111,6 +113,10 @@ The original post about this 3d renderer can be found here: https://gist.github.
 28. breakstatement.java is a basic program that stops a loop when it reaches the number 5 made in java.
 
 29. advancedswitchstatement.java is a more advanced switch statement that uses many things such as break statements, objects, variables, and much more.
+
+30. breakandcontinue.java is a loop that stops at a certain point and continues after stopping.
+
+31. elementsandtraversal.java is using elements and is just me praticing them.
 
 
 
