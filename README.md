@@ -46,6 +46,8 @@ Added advancedswitchstatement.java in version 2.3
 
 Added breakandcontinue.java and elementsandtraversal.java in version 2.4
 
+Added ATM.java, polymorphisim.java, and arrayofparentandchildclasses.java in version 2.5
+
 LATEST GENERAL UPDATES:
 
 Added a cool new website for news and information about Java Stugg.
@@ -117,6 +119,12 @@ The original post about this 3d renderer can be found here: https://gist.github.
 30. breakandcontinue.java is a loop that stops at a certain point and continues after stopping.
 
 31. elementsandtraversal.java is using elements and is just me praticing them.
+
+32. ATM.java is a program that uses many things to total the amount of fake money in the first and second atms and displaying the total.
+
+33. polymorphisim.java is a program that features basic uses of polymorphisim in java.
+
+34. arrayofparentandchildcalsses.java is a program the is a refrence array for parent and child classes in java.
 
 
 
