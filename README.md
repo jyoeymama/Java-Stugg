@@ -12,6 +12,12 @@ You will recieve a response from my email in 1-2 days maximum. To anyone reading
 
 THANK YOU ALL FOR THE LOVE AND SUPPORT!!!!
 
+GUESS WHAT GUYS:
+
+
+<img width="1912" height="875" alt="Screenshot 2025-12-01 184709" src="https://github.com/user-attachments/assets/c39b5784-06e8-4d87-af91-283e0bdb0b7a" />
+
+
 JUST LOOK AT HOW MANY ERRORS LOL:
 
 
@@ -47,6 +53,8 @@ Added advancedswitchstatement.java in version 2.3
 Added breakandcontinue.java and elementsandtraversal.java in version 2.4
 
 Added ATM.java, polymorphisim.java, and arrayofparentandchildclasses.java in version 2.5
+
+Added bad.java, debug.java, finaltwodarray.java, twodarrayexample.java, twodarrayssuck.java in version 2.6
 
 LATEST GENERAL UPDATES:
 
